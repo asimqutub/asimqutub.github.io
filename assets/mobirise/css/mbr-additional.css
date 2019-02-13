@@ -1766,8 +1766,34 @@ body {
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #149dcc;
 }
-.cid-rffBIGeDOl {
-  background: linear-gradient(45deg, #7fd9fc, #6576aa);
+.cid-rhZHMjR62O {
+  background-color: #0f7699;
+}
+.cid-rhZHMjR62O .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-rhZHMjR62O .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-rhZHMjR62O .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-rhZHMjR62O .mbr-text {
+  color: #ffffff;
+}
+.cid-rhZHMjR62O .card {
+  padding-bottom: 1.5rem;
+}
+.cid-rhZHMjR62O H5 {
+  color: #b1a374;
 }
 .cid-rffFk3UItr {
   padding-top: 90px;
