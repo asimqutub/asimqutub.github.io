@@ -1757,7 +1757,14 @@ body {
   color: #149dcc !important;
 }
 .cid-qTkA127IK8 {
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/ln-9-1-702x351.jpg");
+}
+.cid-qTkA127IK8 H1 {
+  color: #149dcc;
+}
+.cid-qTkA127IK8 .mbr-text,
+.cid-qTkA127IK8 .mbr-section-btn {
+  color: #149dcc;
 }
 .cid-rffBIGeDOl {
   background: linear-gradient(45deg, #7fd9fc, #6576aa);
